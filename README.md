@@ -1,8 +1,9 @@
 # THY-Travel-Datathon-2021
-N|Solid
+
 Travel Datathon 2021
 Data Butchers - Second place winner
-N|Solid
+
+![image](https://user-images.githubusercontent.com/73425495/135713431-6691f37f-3dec-4e8a-9834-6c409974e61e.png)
 
 In Travel Datathon 2021, there were 3 different projects; The Next Destination Prediction, Flight Reason Prediction and Cargo Delay Prediction. Detailed solution approaches to these projects are presented below.
 
